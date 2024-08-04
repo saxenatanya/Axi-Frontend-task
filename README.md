@@ -4,6 +4,10 @@ new view above and old view in the bottom
 
 responsive view
 
+![image](https://github.com/user-attachments/assets/675854af-af4c-4cca-9bb5-63fe03e8e89e)
+
+![image](https://github.com/user-attachments/assets/5aed575d-b889-4129-8fa4-344feec80644)
+
 
 
 
