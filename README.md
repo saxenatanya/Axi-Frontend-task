@@ -1,12 +1,9 @@
 # Snips
-new view above and old view in the bottom
-![image](https://github.com/user-attachments/assets/f27d550b-2438-44bb-ac24-5d17a00d450b)
 
-responsive view
+![image](https://github.com/user-attachments/assets/f4e928d5-5bb0-48e8-a824-77fb2a49039d)
 
-![image](https://github.com/user-attachments/assets/675854af-af4c-4cca-9bb5-63fe03e8e89e)
+![image](https://github.com/user-attachments/assets/fbdeea38-5762-462c-8c40-76038d6b5ca9)
 
-![image](https://github.com/user-attachments/assets/5aed575d-b889-4129-8fa4-344feec80644)
 
 
 
