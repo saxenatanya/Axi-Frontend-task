@@ -2,6 +2,7 @@ import { useState } from 'react';
 import "./App.css";
 import { DateCard } from './components/DateCard/DateCard';
 import { ButtonColor } from './utils/Types';
+import { Button } from '@mui/material';
 
 export const AppFunctional = () => {
     const [lastClicked, setLastClicked] = useState<Date>(new Date());
@@ -49,13 +50,13 @@ export const AppFunctional = () => {
     return (
         <>
             <div>
-                <button onClick={onClick} style={{ backgroundColor: buttonColor }}>
+                <Button onClick={onClick} style={{ backgroundColor: buttonColor, color:'white' }}>
                     Click
-                </button>
+                </Button>
             </div>
             <div className="TimeContainer">
                 {dataToDisplay.map((val, i) => (
-                    <DateCard timeZone={val.timeZone} actualTime={val.actualTime} key={`${i}+1`} />
+                    <DateCard timeZone={val.timeZone} actualTime={val.actualTime} key={`${i}+1`}  />
                 ))}
             </div>
         </>
