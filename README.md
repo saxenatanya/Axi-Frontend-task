@@ -1,3 +1,12 @@
+# Snips
+new view above and old view in the bottom
+![image](https://github.com/user-attachments/assets/f27d550b-2438-44bb-ac24-5d17a00d450b)
+
+responsive view
+
+
+
+
 # Introduction
 
 The project consists of a simple react app. The usual commands
